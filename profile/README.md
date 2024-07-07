@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars0.githubusercontent.com/u/71967756?s=200&v=4" alt="ASPL logo">
+<img src="https://github.com/aspl-lang/logo/blob/main/logo.svg" alt="ASPL logo">
 </div>
 
 ---
